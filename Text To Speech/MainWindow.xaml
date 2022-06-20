@@ -1,0 +1,14 @@
+﻿<Window x:Name="WindowTextToSpeech" x:Class="Text_To_Speech.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Text_To_Speech"
+        mc:Ignorable="d"
+        Title="Text To Speech" Height="246" Width="485.2" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBox x:Name="TextBoxForSpeech" HorizontalAlignment="Left" Height="117" Margin="24,25,0,0" VerticalAlignment="Top" Width="424" TextChanged="TextBoxForSpeech_TextChanged" TextWrapping="Wrap" AcceptsReturn="True"/>
+        <Button x:Name="ButtonSpeak" Content="Speak" Margin="24,178,0,0" VerticalAlignment="Top" Click="ButtonSpeak_Click" HorizontalAlignment="Left" Width="75"/>
+
+    </Grid>
+</Window>

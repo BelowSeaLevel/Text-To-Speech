@@ -1,0 +1,30 @@
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\bin\Debug\Text To Speech.exe.config
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\bin\Debug\Text To Speech.exe
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\bin\Debug\Text To Speech.pdb
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csprojAssemblyReference.cache
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\MainWindow.g.cs
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\App.g.cs
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech_MarkupCompile.cache
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech_MarkupCompile.lref
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\MainWindow.baml
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.g.resources
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text_To_Speech.Properties.Resources.resources
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.GenerateResource.cache
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.exe
+C:\Portfolio CSharp\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.pdb
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\bin\Debug\Text To Speech.exe.config
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\bin\Debug\Text To Speech.exe
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\bin\Debug\Text To Speech.pdb
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.AssemblyReference.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.SuggestedBindingRedirects.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\MainWindow.g.cs
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\App.g.cs
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech_MarkupCompile.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech_MarkupCompile.lref
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\MainWindow.baml
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.g.resources
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text_To_Speech.Properties.Resources.resources
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.GenerateResource.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.csproj.CoreCompileInputs.cache
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.exe
+E:\Coding\Finished Applications\Windows Presentation Foundation (WPF)\Text To Speech\Text To Speech\obj\Debug\Text To Speech.pdb
